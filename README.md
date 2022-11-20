@@ -21,4 +21,4 @@ node index.js property=property value
 
 The program will make the change in your JSON file.	Run in Visual Studio Code, the program works accurately and without errors.
 
-For formatted files, download "Formatted" folder.
+For formatted files, view "Formatted" folder.
